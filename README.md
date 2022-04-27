@@ -10,5 +10,5 @@ Goal: Salary prediction as function of the number of years of experience using u
 
 Datasets: From Kaggle https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression
 
-(Additionally, this code is also on Kaggle. )
+(Additionally, this code is also on Kaggle https://www.kaggle.com/code/jvachier/linear-regression)
 
